@@ -2,4 +2,4 @@
 
 RusGuard API use SOAP.\
 For work with API i'm use zeep module.\
-you can find examples in main.py
+you can find examples in example.py
